@@ -1,4 +1,4 @@
-# Buffer Fade
+# Procedural Interface
 
 *Max 8.5*
 
